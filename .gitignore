@@ -1,0 +1,22 @@
+## Игнорировать результаты сборки
+[Bb]in/
+[Oo]bj/
+
+## Игнорировать файлы настроек IDE (Visual Studio, Rider)
+.vs/
+.vscode/
+*.user
+*.suo
+*.userosscache
+
+## Игнорировать файлы пакетов NuGet
+*.nupkg
+.nuget/
+packages/
+
+## Игнорировать логи и выходные файлы
+[Ll]og/
+*.log
+
+## Игнорировать резервные файлы
+*_Backup*/
