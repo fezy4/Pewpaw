@@ -1,0 +1,14 @@
+C:\Users\klg\source\repos\fa\fa\bin\Debug\net8.0\fa.exe
+C:\Users\klg\source\repos\fa\fa\bin\Debug\net8.0\fa.deps.json
+C:\Users\klg\source\repos\fa\fa\bin\Debug\net8.0\fa.runtimeconfig.json
+C:\Users\klg\source\repos\fa\fa\bin\Debug\net8.0\fa.dll
+C:\Users\klg\source\repos\fa\fa\bin\Debug\net8.0\fa.pdb
+C:\Users\klg\source\repos\fa\fa\obj\Debug\net8.0\fa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\klg\source\repos\fa\fa\obj\Debug\net8.0\fa.AssemblyInfoInputs.cache
+C:\Users\klg\source\repos\fa\fa\obj\Debug\net8.0\fa.AssemblyInfo.cs
+C:\Users\klg\source\repos\fa\fa\obj\Debug\net8.0\fa.csproj.CoreCompileInputs.cache
+C:\Users\klg\source\repos\fa\fa\obj\Debug\net8.0\fa.dll
+C:\Users\klg\source\repos\fa\fa\obj\Debug\net8.0\refint\fa.dll
+C:\Users\klg\source\repos\fa\fa\obj\Debug\net8.0\fa.pdb
+C:\Users\klg\source\repos\fa\fa\obj\Debug\net8.0\fa.genruntimeconfig.cache
+C:\Users\klg\source\repos\fa\fa\obj\Debug\net8.0\ref\fa.dll
